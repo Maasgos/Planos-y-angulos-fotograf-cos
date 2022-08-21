@@ -1,0 +1,197 @@
+
+.menu{
+    list-style: none;
+    padding: 0px;
+    background: #092327;
+    width: 95%;
+    max-width: 1000px;
+    margin: auto;
+   height:50px; 
+   }
+
+.menu li a{
+    text-decoration: none ;
+    color: white;
+    padding: 20px; 
+    display: block;
+}
+
+
+.menu li {
+
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover {
+background: #ef8354;
+}
+
+.menu li a:active {
+    background: olive;
+}
+
+#Importancia{
+   background:rgb(red, green, blue);
+    width: 70%;
+    height: 180px;
+    overflow: auto;
+
+}
+
+#Fotografiai{
+   position: absolute;
+   top: 3320px;
+   left: 870px;
+   margin: 2px 2px 2px 2px;
+   border: 2px dashed red;
+   padding: 2px;
+}
+
+
+
+.Modelocaja{
+   width: 490px;
+   margin: auto;
+   border: 8px solid rgb(145, 0, 0);
+   border-top: 10px solid violet;
+   padding: 50px;
+}
+
+.Modelocaja1{
+   width: 490px;
+   margin: auto;
+   border: 8px solid rgb(145, 0, 0);
+   border-top: 10px solid violet;
+   padding: 90px;
+}
+
+#Angulos-imagen{
+   position:relative;
+   top: 1px;
+   left: 150px;
+}
+
+#Planos-imagen{
+   position:relative;
+   top: 1px;
+   left: 150px;
+}
+
+div li{
+    font-size: 24px;
+    color: red
+}
+    p.Descripcion-angulos-planos-y-tabla {
+    border: 5px solid orange;
+    }
+
+
+h1{
+    font-size: 200%;
+    font-weight: bold;
+    letter-spacing: 10px;
+    text-align: center;
+    text-shadow: green 6px 0;
+       }
+    
+       boby{
+          text-align: justify;
+       }
+    
+       td{
+          text-align: justify;
+       }
+             h1{
+                font-family:Georgia, 'Times New Roman', Times, serif;
+                font-size: 34px;
+                text-align: center;
+             }
+             p{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 20px;
+             }
+             li{
+                font-family:Arial, Helvetica, sans-serif;
+                font-size: 22px;
+             }
+    
+             th{
+                font-family:'Times New Roman', Times, serif;
+                font-size: 20px;
+             }
+             td{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 20px;
+             }
+             #descripcion-fotografica{background-color:brown;}
+    
+             h1 {color:yellowgreen;}
+    
+             .Descripcion-angulos-planos-y-tabla{
+                background-color: violet;
+             }
+    
+    p.Descripcion-angulos-planos-y-tabla {
+    border: 5px solid orange;
+    }
+    
+    *{margin: 0; padding: 0;}
+    html{background-color:darkslategray;}
+    body{width:750px; height:3790px; margin: auto; background-color: bisque;}
+    head{width: 750px;height: 250px;background-color:khaki;}
+    nav{width: 750px; height: 150;background-color: #092327;}
+    main{width: 750px;height: 400px;background-color:khaki;}
+    footer{width: 750px;height: 250px;background-color:khaki;}
+
+
+    table, td, th {
+        border:1px solid black;
+      }
+      table {
+        border-collapse:collapse;
+        width:100%;
+      }
+      td, th {
+        padding:5px;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      table, td, th {
+         border:1px solid black;
+       }
+       table {
+         border-collapse:collapse;
+         width:100%;
+       }
+       td, th {
+         padding:5px;
+       }
+ 
+
